@@ -1,0 +1,72 @@
+/* CSS DOCUMENT */
+/* this is a css comment */
+body {
+    background-color: bisque;
+    color:whitesmoke;
+    font-size: 35px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUTlKqhn9uBBwckRacFQ5b8KLOe--Zj9DuxQ&amp;usqp=CAU");
+    background-size: cover;}
+p {
+    color: orchid;
+    font-size:30px;
+    text-align: center;
+}
+h1 {
+    color: purple;
+    font-size:60px;
+    text-align: center;
+    
+    margin-left: 175px;
+}
+div {
+    background: darkslateblue;
+    width: 1500px;
+    
+    margin-left: 100px;
+    text-align: center;
+}
+span {
+    color: yellow;
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+}
+.one {
+    background-color: palevioletred;
+    width: 1500px;
+    text-align: center;
+}
+.computer {
+    color: wheat;
+    text-align: center;
+}
+.kannur {
+    color: tomato;
+    text-align: center;
+}
+.cricket {
+    color: orangered;
+    text-align: center;
+}
+.football {
+    color: powderblue;
+    text-align: center;
+}
+.CC {
+    color: brown; 
+    text-align: center;
+}
+.name {
+    color:peru;
+    text-align: center;
+}
+#three {
+    background-color: paleturquoise;
+    color: olive;    
+    text-align: center;
+}
+.four {
+    background-color: palevioletred;
+    color: oldlace;
+    text-align: center;
+}
