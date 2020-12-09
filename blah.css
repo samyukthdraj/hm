@@ -15,15 +15,16 @@ h1 {
     color: purple;
     font-size:60px;
     text-align: center;
-    
-    margin-left: 175px;
+    font-family: "Times New Roman", Times, serif;
 }
 div {
-    background: darkslateblue;
-    width: 1500px;
-    
+    width: 1500px;   
     margin-left: 100px;
     text-align: center;
+    background-color: bisque;
+    border: 2px;
+    border-radius: 50px;
+    border-color: darkgrey;
 }
 span {
     color: yellow;
@@ -64,9 +65,26 @@ span {
     background-color: paleturquoise;
     color: olive;    
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .four {
     background-color: palevioletred;
-    color: oldlace;
+    color: purple;
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.image {
+    width: 200px;
+    height:275px;
+    margin-right: 100px;
+    background-color: slategray;
+    border: 2px;
+    border-radius: 20px;
+    clip-path: circle();
+}
+.about {
+    color: salmon;
+}
+.two {
+    background-color: slateblue;
 }
