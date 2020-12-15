@@ -5,7 +5,8 @@ body {
     color:whitesmoke;
     font-size: 35px;
     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUTlKqhn9uBBwckRacFQ5b8KLOe--Zj9DuxQ&amp;usqp=CAU");
-    background-size: cover;}
+    background-size: cover;
+}
 p {
     color: orchid;
     font-size:30px;
@@ -13,18 +14,20 @@ p {
 }
 h1 {
     color: purple;
-    font-size:60px;
+    font-size:50px;
     text-align: center;
     font-family: "Times New Roman", Times, serif;
 }
 div {
-    width: 1500px;   
+    width: 1200px;   
     margin-left: 100px;
     text-align: center;
     background-color: bisque;
     border: 2px;
     border-radius: 50px;
     border-color: darkgrey;
+    min-height: 100%;
+    
 }
 span {
     color: yellow;
@@ -34,8 +37,9 @@ span {
 }
 .one {
     background-color: palevioletred;
-    width: 1500px;
+    width: 600px;
     text-align: center;
+    margin-left: 450px;
 }
 .computer {
     color: wheat;
@@ -72,6 +76,8 @@ span {
     color: purple;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+    width: 700px;
+    margin-left: 400px;
 }
 .image {
     width: 200px;
@@ -87,4 +93,13 @@ span {
 }
 .two {
     background-color: slateblue;
+    width: 700px;
+    margin-left: 400px;
+}
+.global {
+    background-color: darkgrey;
+    width: 1500px;
+    opacity: 0.9;
+    min-height: 100%;
+    overflow: hidden;
 }
